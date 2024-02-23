@@ -1,0 +1,14 @@
+C:\Users\chhasatiyaj\Desktop\VisualBasic\TestVBApp\bin\Debug\net8.0\TestVBApp.exe
+C:\Users\chhasatiyaj\Desktop\VisualBasic\TestVBApp\bin\Debug\net8.0\TestVBApp.deps.json
+C:\Users\chhasatiyaj\Desktop\VisualBasic\TestVBApp\bin\Debug\net8.0\TestVBApp.runtimeconfig.json
+C:\Users\chhasatiyaj\Desktop\VisualBasic\TestVBApp\bin\Debug\net8.0\TestVBApp.dll
+C:\Users\chhasatiyaj\Desktop\VisualBasic\TestVBApp\bin\Debug\net8.0\TestVBApp.pdb
+C:\Users\chhasatiyaj\Desktop\VisualBasic\TestVBApp\obj\Debug\net8.0\TestVBApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chhasatiyaj\Desktop\VisualBasic\TestVBApp\obj\Debug\net8.0\TestVBApp.AssemblyInfoInputs.cache
+C:\Users\chhasatiyaj\Desktop\VisualBasic\TestVBApp\obj\Debug\net8.0\TestVBApp.AssemblyInfo.vb
+C:\Users\chhasatiyaj\Desktop\VisualBasic\TestVBApp\obj\Debug\net8.0\TestVBApp.vbproj.CoreCompileInputs.cache
+C:\Users\chhasatiyaj\Desktop\VisualBasic\TestVBApp\obj\Debug\net8.0\TestVBApp.dll
+C:\Users\chhasatiyaj\Desktop\VisualBasic\TestVBApp\obj\Debug\net8.0\refint\TestVBApp.dll
+C:\Users\chhasatiyaj\Desktop\VisualBasic\TestVBApp\obj\Debug\net8.0\TestVBApp.pdb
+C:\Users\chhasatiyaj\Desktop\VisualBasic\TestVBApp\obj\Debug\net8.0\TestVBApp.genruntimeconfig.cache
+C:\Users\chhasatiyaj\Desktop\VisualBasic\TestVBApp\obj\Debug\net8.0\ref\TestVBApp.dll

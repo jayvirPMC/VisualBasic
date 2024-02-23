@@ -1,0 +1,14 @@
+C:\Users\chhasatiyaj\Desktop\VisualBasic\NewVBConsoleApp\bin\Debug\net8.0\NewVBConsoleApp.exe
+C:\Users\chhasatiyaj\Desktop\VisualBasic\NewVBConsoleApp\bin\Debug\net8.0\NewVBConsoleApp.deps.json
+C:\Users\chhasatiyaj\Desktop\VisualBasic\NewVBConsoleApp\bin\Debug\net8.0\NewVBConsoleApp.runtimeconfig.json
+C:\Users\chhasatiyaj\Desktop\VisualBasic\NewVBConsoleApp\bin\Debug\net8.0\NewVBConsoleApp.dll
+C:\Users\chhasatiyaj\Desktop\VisualBasic\NewVBConsoleApp\bin\Debug\net8.0\NewVBConsoleApp.pdb
+C:\Users\chhasatiyaj\Desktop\VisualBasic\NewVBConsoleApp\obj\Debug\net8.0\NewVBConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chhasatiyaj\Desktop\VisualBasic\NewVBConsoleApp\obj\Debug\net8.0\NewVBConsoleApp.AssemblyInfoInputs.cache
+C:\Users\chhasatiyaj\Desktop\VisualBasic\NewVBConsoleApp\obj\Debug\net8.0\NewVBConsoleApp.AssemblyInfo.vb
+C:\Users\chhasatiyaj\Desktop\VisualBasic\NewVBConsoleApp\obj\Debug\net8.0\NewVBConsoleApp.vbproj.CoreCompileInputs.cache
+C:\Users\chhasatiyaj\Desktop\VisualBasic\NewVBConsoleApp\obj\Debug\net8.0\NewVBConsoleApp.dll
+C:\Users\chhasatiyaj\Desktop\VisualBasic\NewVBConsoleApp\obj\Debug\net8.0\refint\NewVBConsoleApp.dll
+C:\Users\chhasatiyaj\Desktop\VisualBasic\NewVBConsoleApp\obj\Debug\net8.0\NewVBConsoleApp.pdb
+C:\Users\chhasatiyaj\Desktop\VisualBasic\NewVBConsoleApp\obj\Debug\net8.0\NewVBConsoleApp.genruntimeconfig.cache
+C:\Users\chhasatiyaj\Desktop\VisualBasic\NewVBConsoleApp\obj\Debug\net8.0\ref\NewVBConsoleApp.dll
