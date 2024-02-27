@@ -12,3 +12,4 @@ C:\Users\chhasatiyaj\Desktop\VisualBasic\NewVBConsoleApp\obj\Debug\net8.0\refint
 C:\Users\chhasatiyaj\Desktop\VisualBasic\NewVBConsoleApp\obj\Debug\net8.0\NewVBConsoleApp.pdb
 C:\Users\chhasatiyaj\Desktop\VisualBasic\NewVBConsoleApp\obj\Debug\net8.0\NewVBConsoleApp.genruntimeconfig.cache
 C:\Users\chhasatiyaj\Desktop\VisualBasic\NewVBConsoleApp\obj\Debug\net8.0\ref\NewVBConsoleApp.dll
+C:\Users\chhasatiyaj\Desktop\VisualBasic\NewVBConsoleApp\obj\Debug\net8.0\NewVBConsoleApp.sourcelink.json

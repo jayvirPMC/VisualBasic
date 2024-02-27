@@ -15,7 +15,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("NewVBConsoleApp"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cee6b6583fe45af047bb67e7a5e85d0c0f3c476d"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("NewVBConsoleApp"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("NewVBConsoleApp"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
